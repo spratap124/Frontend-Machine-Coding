@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+}
+
+.time,
+.sperator {
+  padding: 5px;
+  margin: 5px;
+  font-size: xx-large;
+}
+
+.button {
+  margin-right: 10px;
+}
