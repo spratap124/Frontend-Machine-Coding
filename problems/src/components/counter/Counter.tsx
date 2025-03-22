@@ -1,12 +1,10 @@
-import { useState } from "react";
-import "./App.css";
+import React, { useState } from "react";
 
-function App() {
+function Counter() {
   const [count, setCount] = useState(0);
 
   return (
     <>
-      <h1>React Counter app</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -16,4 +14,4 @@ function App() {
   );
 }
 
-export default App;
+export default Counter;
