@@ -1,0 +1,68 @@
+[{
+    "name": "Movies",
+    "id": 1,
+    "isFolder": true,
+    "isExpanded": false,
+    "childrens": [{
+        "name": "Thor",
+        "id": 2,
+        "isFolder": false
+      },
+      {
+        "name": "Superman",
+        "id": 3,
+        "isFolder": false
+      },
+      {
+        "name": "Batman",
+        "id": 4,
+        "isFolder": false
+      }, {
+        "name": "Spiderman",
+        "id": 4,
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "name": "Public",
+    "id": 5,
+    "isFolder": true,
+    "isExpanded": false,
+    "childrens": [{
+        "name": "data",
+        "id": 6,
+        "isFolder": true,
+        "childrens": [{
+          "name": "data.json",
+          "id": 7,
+          "type": "file"
+        }]
+      },
+      {
+        "name": "Superman",
+        "id": 8,
+        "isFolder": false
+      },
+      {
+        "name": "Batman",
+        "id": 9,
+        "isFolder": false
+      }, {
+        "name": "Spiderman",
+        "id": 10,
+        "isFolder": false
+      }
+    ]
+  },
+  {
+    "name": "Subtitle.txt",
+    "id": 11,
+    "isFolder": false
+  },
+  {
+    "name": "package.json",
+    "id": 12,
+    "isFolder": false
+  }
+]
